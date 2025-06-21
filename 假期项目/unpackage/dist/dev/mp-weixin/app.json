@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/toLogin/toLogin",
+    "pages/tabBar/index/index",
+    "pages/tabBar/score/score",
+    "pages/tabBar/activity/activity",
+    "pages/tabBar/myself/myself",
+    "pages/AddStudent/AddStudent",
+    "pages/firstLogin/firstLogin",
+    "components/xiangqing/student-xiang/student-xiang",
+    "pages/tabBar/score/manageScore/manageScore"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "学生管理",
+    "navigationBarBackgroundColor": "#BB2C08",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "black",
+    "selectedColor": "#007aff",
+    "list": [
+      {
+        "iconPath": "/static/icon/firstPage.png",
+        "selectedIconPath": "/static/icon/ask.png",
+        "text": "首页",
+        "pagePath": "pages/tabBar/index/index"
+      },
+      {
+        "iconPath": "/static/icon/share.png",
+        "selectedIconPath": "/static/icon/more.png",
+        "text": "成绩管理",
+        "pagePath": "pages/tabBar/score/score"
+      },
+      {
+        "iconPath": "/static/icon/push.png",
+        "selectedIconPath": "/static/icon/protect.png",
+        "text": "活动",
+        "pagePath": "pages/tabBar/activity/activity"
+      },
+      {
+        "iconPath": "/static/icon/mine.png",
+        "selectedIconPath": "/static/icon/minepicture.png",
+        "text": "我的",
+        "pagePath": "pages/tabBar/myself/myself"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

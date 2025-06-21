@@ -1,0 +1,1 @@
+<view class="myself"><view class="info"><image src="{{''}}" mode=""></image></view><view class="xiang"><uni-list u-s="{{['d']}}" u-i="6a3a673a-0" bind:__l="__l"><uni-list-item u-s="{{['d']}}" u-i="6a3a673a-1,6a3a673a-0" bind:__l="__l">11</uni-list-item></uni-list></view><button bindtap="{{a}}">退出登录</button></view>

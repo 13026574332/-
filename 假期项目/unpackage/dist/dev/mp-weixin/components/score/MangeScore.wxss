@@ -1,0 +1,52 @@
+.addButton {
+  width: 230rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  font-size: 42rpx;
+  border: none;
+  text-align: center;
+  background-color: #69b3f0;
+  color: #fff;
+  border-radius: 5px;
+  margin: 30rpx;
+}
+.tr {
+  display: flex;
+  margin: 3rpx 5rpx;
+}
+.th-small {
+  width: 15%;
+  height: 75rpx;
+  line-height: 75rpx;
+  text-align: center;
+}
+.th-max {
+  width: 40%;
+  height: 75rpx;
+  line-height: 75rpx;
+  text-align: center;
+  display: flex;
+}
+.green {
+  background-color: #4ca67f;
+  color: #fff;
+}
+.font-green {
+  color: #4ca67f;
+}
+.font-red {
+  color: #f00;
+}
+.small-btn {
+  width: 120rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  font-size: 28rpx;
+  margin: 10rpx auto;
+}
+.top {
+  font-size: 42rpx;
+  text-indent: 48px;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.3);
+  color: #9f86e7;
+}

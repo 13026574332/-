@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "成绩管理",
+  "usingComponents": {
+    "course": "../../../components/score/course",
+    "mange-score": "../../../components/score/MangeScore",
+    "static": "../../../components/score/static",
+    "other": "../../../components/score/other"
+  }
+}

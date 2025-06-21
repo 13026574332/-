@@ -1,0 +1,6 @@
+.Xscroll {
+  display: flex;
+}
+.sel {
+  margin: 3rpx 20px;
+}

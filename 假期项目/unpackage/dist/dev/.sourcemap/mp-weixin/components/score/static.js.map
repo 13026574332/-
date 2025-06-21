@@ -1,0 +1,1 @@
+{"version":3,"file":"static.js","sources":["E:/HbuilderX/HBuilderX/plugins/uniapp-cli-vite/uniComponent:/RjovSGJ1aWxkZXJY5paH5Lu2L-WBh-acn-mhueebri9jb21wb25lbnRzL3Njb3JlL3N0YXRpYy52dWU"],"sourcesContent":["import Component from 'F:/HbuilderX文件/假期项目/components/score/static.vue'\nwx.createComponent(Component)"],"names":["Component"],"mappings":";;;;;;;;;;AACA,GAAG,gBAAgBA,SAAS;"}

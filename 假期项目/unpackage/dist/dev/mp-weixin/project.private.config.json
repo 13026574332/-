@@ -1,0 +1,57 @@
+{
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/firstLogin/firstLogin",
+          "pathName": "pages/firstLogin/firstLogin",
+          "query": "",
+          "scene": null,
+          "launchMode": "default"
+        },
+        {
+          "name": "pages/tabBar/index/index",
+          "pathName": "pages/tabBar/index/index",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/AddStudent/AddStudent",
+          "pathName": "pages/AddStudent/AddStudent",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/tabBar/score/score",
+          "pathName": "pages/tabBar/score/score",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/tabBar/myself/myself",
+          "pathName": "pages/tabBar/myself/myself",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/toLogin/toLogin",
+          "pathName": "pages/toLogin/toLogin",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/tabBar/index/index",
+          "pathName": "pages/tabBar/index/index",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

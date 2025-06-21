@@ -1,0 +1,52 @@
+
+.logoPic{
+	width: 640rpx;
+	height: 360rpx;
+	margin: 20rpx auto;
+}
+.back-img{
+	margin: 10rpx auto;
+}
+.switch{
+	width: 500rpx;
+	height: 90rpx;
+	line-height: 90rpx;
+	color: black;
+	font-size: 38rpx;
+	margin: 50px auto;
+}
+.ul{
+	list-style: none;
+	display: flex;
+	margin: 10rpx auto;
+}
+.tab-item {
+  margin: 8rpx auto;
+  font-size: 38rpx;
+  transition: all 0.4s; /* 添加过渡效果 */
+}
+.active {
+  color: red; /* 字体变红 */
+  border-bottom: 2px solid red; /* 底部红横杠 */
+  font-weight: 500; /* 加粗突出 */
+}
+.input-form{
+	width: 340px;
+	height: 150px;
+	margin: 80rpx auto;
+}
+.btn-box{
+	display: flex;
+	margin-top: 15px;
+}
+.tologin{
+	border: none;
+	background-color: #499ed1;
+	color: #fff;
+}
+.input{
+	margin: 20px auto;
+}
+.label{
+	font-size: 38rpx;
+}
